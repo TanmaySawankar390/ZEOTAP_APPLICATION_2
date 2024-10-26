@@ -1,4 +1,4 @@
-# Weather-App
+# Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
 I was not able to retrieve City based data from OpenWeatherMap API due to their server issues.
 So i implemented this project using https://weatherstack.com/ for documentation visit here
 Build api key of your own by logging in the system and check for fully running project.
