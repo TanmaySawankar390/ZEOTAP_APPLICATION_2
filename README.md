@@ -1,5 +1,7 @@
 # Weather-App
-Discover our privacy-conscious weather app, offering temperature updates without requesting your location. Simply select your desired location from a dropdown menu for easy and secure access to weather information.
+I was not able to retrieve City based data from OpenWeatherMap API due to their server issues.
+So i implemented this project using https://weatherstack.com/ for documentation visit here
+Build api key of your own by logging in the system and check for fully running project.
 
 **Getting Started:**
 
